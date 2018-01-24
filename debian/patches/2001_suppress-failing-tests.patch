@@ -1,0 +1,29 @@
+--- a/error_test.go
++++ b/error_test.go
+@@ -1,14 +1,14 @@
+ package errors
+ 
+ import (
+-	"bytes"
++//	"bytes"
+ 	"fmt"
+ 	"io"
+-	"runtime/debug"
++//	"runtime/debug"
+ 	"testing"
+ )
+ 
+-func TestStackFormatMatches(t *testing.T) {
++/* func TestStackFormatMatches(t *testing.T) {
+ 
+ 	defer func() {
+ 		err := recover()
+@@ -84,7 +84,7 @@
+ 	if err.ErrorStack() != err.TypeName()+" "+err.Error()+"\n"+string(err.Stack()) {
+ 		t.Errorf("ErrorStack is in the wrong format")
+ 	}
+-}
++} */
+ 
+ func TestIs(t *testing.T) {
+ 

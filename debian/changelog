@@ -1,4 +1,4 @@
-golang-github-go-errors-errors (0.0~git20161205.8fa88b0-1) UNRELEASED; urgency=medium
+golang-github-go-errors-errors (0.0~git20161205.8fa88b0-1) UNRELEASED; urgency=low
 
   * Initial release (Closes: TODO)
 
