@@ -1,0 +1,17 @@
+Maintainer notes
+================
+
+If only generating the ".orig.tar.gz" file is needed, simply run:
+
+    uscan
+
+Fetch a new version of the upstream tarball, merge it into the
+"upstream" branch and then merge "upstream" into the "master" branch:
+
+    gbp import-orig --uscan
+
+Building:
+
+    gbp buildpackage   
+
+-- Rock Storm <rockstorm@gmx.com>  Tue, 27 Mar 2018 18:25:22 +0200
