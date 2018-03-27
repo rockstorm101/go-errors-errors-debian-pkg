@@ -6,7 +6,7 @@ Uploaders: Rock Storm <rockstorm@gmx.com>
 Build-Depends: debhelper (>= 11),
                dh-golang,
                golang-any
-Standards-Version: 4.1.1
+Standards-Version: 4.1.3
 Homepage: https://github.com/go-errors/errors
 #Vcs-Browser:
 #Vcs-Git:
