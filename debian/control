@@ -1,5 +1,5 @@
 Source: golang-github-go-errors-errors
-Section: golang
+Section: devel
 Priority: optional
 Maintainer: Debian Go Packaging Team <pkg-go-maintainers@lists.alioth.debian.org>
 Uploaders: Rock Storm <rockstorm@gmx.com>
