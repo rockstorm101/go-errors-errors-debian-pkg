@@ -1,5 +1,5 @@
 golang-github-go-errors-errors (0.0~git20161205.8fa88b0-1) UNRELEASED; urgency=low
 
-  * Initial release (Closes: TODO)
+  * Initial release (Closes: #889923)
 
- -- Rock Storm <rockstorm@gmx.com>  Wed, 01 Nov 2017 19:06:44 +0100
+ -- Rock Storm <rockstorm@gmx.com>  Tue, 27 Mar 2018 14:03:15 +0200
